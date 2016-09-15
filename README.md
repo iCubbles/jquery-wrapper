@@ -1,4 +1,7 @@
 ## jquery-wrapper
 
 <hr/>
-Note This page is generated based on the markdown-syntax. For details see <http://daringfireball.net/projects/markdown/syntax/>
+jQuery wrapper for usage in cubbles.
+
+      jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
+      See [jquery](https://jquery.com/)
