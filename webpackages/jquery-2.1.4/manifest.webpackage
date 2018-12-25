@@ -1,8 +1,8 @@
 {
     "name": "jquery-2.1.4",
     "groupId": "",
-    "version": "1.2.0",
-    "modelVersion": "9.1.0",
+    "version": "2.0.0",
+    "modelVersion": "10.0.0",
     "docType": "webpackage",
     "author": {
         "name": "Judit Ross",
